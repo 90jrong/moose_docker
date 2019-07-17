@@ -1,0 +1,19 @@
+deb http://hkg.mirror.rackspace.com/ubuntu/ xenial main restricted universe multiverse
+
+deb-src http://hkg.mirror.rackspace.com/ubuntu/ xenial main restricted universe multiverse
+
+deb http://hkg.mirror.rackspace.com/ubuntu/ xenial-security main restricted universe multiverse
+
+deb-src http://hkg.mirror.rackspace.com/ubuntu/ xenial-security main restricted universe multiverse
+
+deb http://hkg.mirror.rackspace.com/ubuntu/ xenial-updates main restricted universe multiverse
+
+deb-src http://hkg.mirror.rackspace.com/ubuntu/ xenial-updates main restricted universe multiverse
+
+deb http://hkg.mirror.rackspace.com/ubuntu/ xenial-backports main restricted universe multiverse
+
+deb-src http://hkg.mirror.rackspace.com/ubuntu/ xenial-backports main restricted universe multiverse
+
+deb http://hkg.mirror.rackspace.com/ubuntu/ xenial-proposed main restricted universe multiverse
+
+deb-src http://hkg.mirror.rackspace.com/ubuntu/ xenial-proposed main restricted universe multiverse
