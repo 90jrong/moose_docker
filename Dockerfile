@@ -60,7 +60,7 @@ RUN cd $STACK_DIR && \
 	cd $STACK_DIR/moose/scripts && \
 	source /home/moose_env.sh && \
 	export MOOSE_JOBS=15 && \
-	./update_and_rebuild_libmesh.sh --enable-march --with-gcc-arch=native && \
+	./update_and_rebuild_libmesh.sh --enable-march --with-gcc-arch=native
 
 #remove all srcs
 RUN cd $STACK_DIR && \
