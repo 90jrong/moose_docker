@@ -1,6 +1,6 @@
 FROM ubuntu:16.04
 
-#build 
+#build docker build -t moose:v0 ./
 
 #run
 # docker run -it -v ~/work/tmp:/mnt/src -v ~/work/:/mnt/work --net=host  -e DISPLAY=:10.0  -v $HOME/.Xauthority:/root/.Xauthority --rm  --name moose moose:v0
